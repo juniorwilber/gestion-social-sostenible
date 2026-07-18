@@ -18,7 +18,7 @@ Sitio web informativo, accesible y *responsive* para promocionar el **Programa d
 ## 🖼️ Captura de pantalla
 
 <!-- Reemplaza la ruta por tu captura, por ejemplo: img/screenshot.png -->
-![Captura de pantalla del sitio](URL_DE_LA_CAPTURA)
+![Captura de pantalla del sitio](img/screenshot.png)
 
 ---
 
