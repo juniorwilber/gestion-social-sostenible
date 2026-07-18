@@ -1,0 +1,30 @@
+# Dependencias
+node_modules/
+package-lock.json
+yarn.lock
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editores / IDE
+.vscode/
+.idea/
+*.swp
+*~
+
+# Herramientas locales / Claude Code
+.claude/
+
+# Compilados y temporales
+dist/
+.cache/
+*.log
+npm-debug.log*
+*.bak
+.env
+
+# Material académico (no va en el portafolio público)
+informe/README_CAPTURAS.txt
+informe/*.docx
