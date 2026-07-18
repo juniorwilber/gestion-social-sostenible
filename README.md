@@ -25,7 +25,7 @@ Sitio web informativo, accesible y *responsive* para promocionar el **Programa d
 ## 🌐 Sitio en vivo
 
 <!-- Pega aquí el enlace a la web publicada (GitHub Pages, Netlify, Vercel, etc.) -->
-🔗 [Ver web en vivo](URL_DE_LA_WEB_EN_VIVO)
+🔗 [Ver web en vivo](https://juniorwilber.github.io/gestion-social-sostenible/)
 
 ---
 
