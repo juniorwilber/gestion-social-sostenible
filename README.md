@@ -41,8 +41,6 @@ gestion-social-sostenible/
 ├── js/
 │   └── main.js         → Validación del formulario e interactividad
 ├── img/                → Imágenes locales
-├── informe/
-│   └── informe.html    → Informe del proyecto (decisiones de diseño y accesibilidad)
 └── README.md
 ```
 
